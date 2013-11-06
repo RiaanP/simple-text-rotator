@@ -159,7 +159,7 @@
           break;
         }
       };
-      setInterval(rotate, settings.speed);
+      setInterval(rotate, settings.speed*2);
     });
   }
   
